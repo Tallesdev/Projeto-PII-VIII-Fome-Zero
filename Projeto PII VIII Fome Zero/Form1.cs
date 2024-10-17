@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,6 +14,7 @@ namespace Projeto_PII_VIII_Fome_Zero
     {
         public Form1()
         {
+            create class = fome1;
             InitializeComponent();
         }
     }
